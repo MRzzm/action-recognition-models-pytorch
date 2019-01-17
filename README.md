@@ -1,4 +1,4 @@
-# action-recognition-models-pytorch(Work in progress)
+# action-recognition-models-pytorch(update paused)
 **I'm working as an intern in company now, so the project is suspended!**
 
 **I'm so sorry!**
